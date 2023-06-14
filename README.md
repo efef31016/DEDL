@@ -3,7 +3,7 @@
 ### Describing each file as follows.  
 
 --PINNModel  
-    --- \__init__.py  
+    --- \_\_init\_\_.py  
     --- CalTool.py : It need to be modified according to the desired equations.  
     --- ItofSin.py  
     --- PtChange.py   
