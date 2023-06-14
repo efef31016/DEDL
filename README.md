@@ -14,3 +14,8 @@
 
 
 #### sample.txt : Sampling f(x)=12(x-1/2)^2 in [0,1] by sample.R(rejection sampling algorithm).
+
+
+
+## How to use
+  asd
