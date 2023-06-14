@@ -20,3 +20,6 @@ ___sample.txt___ : Sampling f(x)=12(x-1/2)^2 in [0,1] by ___sample.R___(rejectio
 ![In_main.py2](https://raw.githubusercontent.com/efef31016/Nonlocal_Singular_BVP_DL/master/PINN_nonlocal/figure/change02.png)<br><br>
 
 ___main_stregth_bdd.py___ can also be used similarly.
+
+
+<span style="font-size: larger;">This text is larger.</span>
