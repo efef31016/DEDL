@@ -13,11 +13,10 @@ ___sample.txt___ : Sampling f(x)=12(x-1/2)^2 in [0,1] by ___sample.R___(rejectio
 ## Where we customize the configuration
 
 #### According different case, we can customize three functions in ___CalTool.py___:<br><br>
-![In_CalTool.py](https://raw.githubusercontent.com/efef31016/Nonlocal_Singular_BVP_DL/master/PINN_nonlocal/figure/change03.png).
+![In_CalTool.py](https://raw.githubusercontent.com/efef31016/Nonlocal_Singular_BVP_DL/master/PINN_nonlocal/figure/change03.png)
 ---
 #### Furthermore, we also can customize more information of model in ___main.py___.:<br><br>
-![In_main.py1](https://raw.githubusercontent.com/efef31016/Nonlocal_Singular_BVP_DL/master/PINN_nonlocal/figure/change02.png).
-![In_main.py2](https://raw.githubusercontent.com/efef31016/Nonlocal_Singular_BVP_DL/master/PINN_nonlocal/figure/change02.png).
-<br><br><br>
+![In_main.py1](https://raw.githubusercontent.com/efef31016/Nonlocal_Singular_BVP_DL/master/PINN_nonlocal/figure/change02.png)
+![In_main.py2](https://raw.githubusercontent.com/efef31016/Nonlocal_Singular_BVP_DL/master/PINN_nonlocal/figure/change02.png)<br><br>
 
 ___main_stregth_bdd.py___ can also be used similarly.
