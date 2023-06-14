@@ -1,6 +1,6 @@
 # Nonlocal_Singular_BVP_DL
 
-#### Describing each file as follows.  
+### Describing each file as follows.  
 
 PINNModel  
     - \_\_init\_\_.py  
