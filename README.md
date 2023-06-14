@@ -9,7 +9,7 @@ PINNModel
     - PtChange.py   
           
           
-bvp4c_version : Simulation the profile of the solution by bvp4c in Matlab.<>
+bvp4c_version : Simulation the profile of the solution by bvp4c in Matlab.<br>
 main.py : There are super-parameters which need to be modified according to the desired configurations.  
         
 main_stregth_bdd.py : There are super-parameters which need to be modified according to the desired configurations.  
