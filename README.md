@@ -1,7 +1,5 @@
 # Nonlocal_Singular_BVP_DL
 
-### Describing each file as follows.  
-
 ___PINNModel___<br>
     - \_\_init\_\_.py<br>
     - CalTool.py : There are functions which need to be modified according to the desired equations.<br>
