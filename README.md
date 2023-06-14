@@ -1,7 +1,7 @@
 # Nonlocal_Singular_BVP_DL
 
-Describing each file as follows.
-PINNModel 
+### Describing each file as follows.  
+PINNModel  
     --- __init__.py  
     --- CalTool.py : It need to be modified according to the desired equations.  
     --- ItofSin.py  
