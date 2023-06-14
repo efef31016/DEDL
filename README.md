@@ -13,7 +13,7 @@ bvp4c_version : Simulation the profile of the solution by bvp4c in Matlab.<br><b
 main.py : There are super-parameters which need to be modified according to the desired configurations.<br><br><br>
 main_stregth_bdd.py : There are super-parameters which need to be modified according to the desired configurations.<br><br><br>
 sample.txt : Sampling f(x)=12(x-1/2)^2 in [0,1] by sample.R(rejection sampling algorithm).<br><br><br>
-**The different between main.py and main_stregth_bdd.py is the function named "net_NS_u". The latter emphasize performance with boundary points within the interior.<br><br><br><br><br><br>
+**The different between main.py and main_stregth_bdd.py is the function named "net_NS_u". The latter emphasize performance with boundary points within the interior.**<br><br><br><br><br><br>
 
 ### Where we customize the configuration
 #### According different case, we can customize three functions in CalTool.py:
