@@ -4,7 +4,7 @@ ___PINNModel___<br>
     - \_\_init\_\_.py<br>
     - CalTool.py : There are functions which need to be modified according to the desired equations.<br>
     - ItofSin.py<br>
-    - PtChange.py<br><br><br>
+    - PtChange.py<br>
 ___bvp4c_version___ : Simulation the profile of the solution by bvp4c in Matlab.<br>
 ___main.py___ : There are super-parameters which need to be modified according to the desired configurations.<br>
 ___main_stregth_bdd.py___ : There are super-parameters which need to be modified according to the desired configurations.<br>
