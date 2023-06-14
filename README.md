@@ -5,9 +5,9 @@ ___PINNModel___<br>
     - CalTool.py : There are functions which need to be modified according to the desired equations.<br>
     - ItofSin.py<br>
     - PtChange.py<br><br><br>
-___bvp4c_version___ : Simulation the profile of the solution by bvp4c in Matlab.
-___main.py___ : There are super-parameters which need to be modified according to the desired configurations.
-___main_stregth_bdd.py___ : There are super-parameters which need to be modified according to the desired configurations.
+___bvp4c_version___ : Simulation the profile of the solution by bvp4c in Matlab.<br>
+___main.py___ : There are super-parameters which need to be modified according to the desired configurations.<br>
+___main_stregth_bdd.py___ : There are super-parameters which need to be modified according to the desired configurations.<br>
 ___sample.txt___ : Sampling f(x)=12(x-1/2)^2 in [0,1] by ___sample.R___(rejection sampling algorithm).<br><br><br>
 **The different between main.py and main_stregth_bdd.py is the function named "net_NS_u". The latter emphasize performance with boundary points within the interior.**<br><br><br>
 ## Where we customize the configuration
